@@ -1,0 +1,63 @@
+body {
+    background-color:black;
+    background-image: url("http://hdwallpapersfit.com/wp-content/uploads/2015/04/video-game-wallpapers-hd.jpg");
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+}
+
+#nav {
+    background-color:#b30000;
+    padding:20px;
+}
+#nav a{
+    color:#b3b3cc;
+    text-decoration:none;
+    padding:20px;
+    margin:0px;
+    
+}
+#nav li{
+    display:inline;
+}
+h1 {
+    color:white;
+    padding:20px;
+    margin-right:800px;
+    border-style:solid;
+    background-color:#1aa3ff;
+     }
+h2 { 
+    color:white;
+    padding:25px;
+    margin-right:900px;
+    font-size:170%;
+
+}
+h3 {
+    color:white;
+    padding:20px;
+}
+h4 {
+    background-color:red;
+    color:white;
+    padding:20px;
+    font-size:100%
+}
+p {
+    color:limegreen;
+    padding:10px;
+    font-size: 200%;
+}
+ul {
+    color:blue;
+    list-style:none;
+    font-size:100%;
+}
+li {
+    font-size:100%;
+}
+h2 #2 {
+    color:red;
+    font-size:100%;
+}
+
